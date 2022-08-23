@@ -1,0 +1,67 @@
+body {
+    background-color:black;
+    color: #FFCDB2;
+    cursor: url('Project 1.png');
+    border-style: solid;
+    border-color:#E5989B;
+   
+
+}
+
+div{
+    margin-left:20px;
+}
+
+
+
+
+img {
+    object-fit: cover;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: thick;
+    border-color: #E5989B;
+    
+
+}
+hr{
+    background-color:#E5989B;
+}
+
+.intro {
+   text-align: center;
+}
+
+
+h1 {
+    color:#E5989B;
+    text-align:center;
+   
+    
+    
+}
+
+h2{
+    text-align:center;
+}
+
+h3{
+    text-align: center;
+}
+
+.phone{
+    text-align: center;
+}
+
+.email{
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+  }
+
